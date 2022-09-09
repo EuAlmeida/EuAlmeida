@@ -9,15 +9,9 @@
 #### Tecnologias favoritas: 
 <div style="margin-top: 2%; margin-bottom: 4%;"> 
 
-<img src="https://img.icons8.com/material-outlined/384/FAF1C6/html-5.png" style="height: 50px;" viewBox="0 0 24 24" >
-</img> 
-<img src="https://img.icons8.com/windows/512/FAF1C6/css3.png" style="height: 54px;" viewBox="0 0 24 24" >
-</img> 
-<img src="https://img.icons8.com/windows/512/FAF1C6/js-squared.png" style="height: 54px;" viewBox="0 0 24 24" >
-</img>
-<img src="https://img.icons8.com/windows/512/FAF1C6/vuejs.png" style="height: 54px;" viewBox="0 0 24 24" >
 <img src="https://img.icons8.com/windows/512/FAF1C6/python.png" style="height: 54px;" viewBox="0 0 24 24" >
 <img src="https://img.icons8.com/windows/512/FAF1C6/mysql.png" style="height: 54px;" viewBox="0 0 24 24" >
+
 </img>
 
 </div>
